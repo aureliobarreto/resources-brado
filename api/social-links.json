@@ -1,17 +1,17 @@
 [
   {
     "label":"Instagram",
-    "icon":"https://raw.githubusercontent.com/aureliobarreto/resources-brado/blob/main/assets/icons/instagram.svg",
+    "icon":"https://raw.githubusercontent.com/aureliobarreto/resources-brado/master/assets/icons/instagram.svg",
     "link":"https://instagram.com/bradopopular/"
   },
   {
     "label":"Facebook",
-    "icon":"https://raw.githubusercontent.com/aureliobarreto/resources-brado/blob/main/assets/icons/facebook.svg",
+    "icon":"https://raw.githubusercontent.com/aureliobarreto/resources-brado/master/assets/icons/facebook.svg",
     "link":"https://facebook.com/bradopopularsg/"
   },
   {
     "label":"Email",
-    "icon":"https://raw.githubusercontent.com/aureliobarreto/resources-brado/blob/main/assets/icons/email.svg",
+    "icon":"https://raw.githubusercontent.com/aureliobarreto/resources-brado/master/assets/icons/email.svg",
     "link":"www.google.com"
   }
 ]
